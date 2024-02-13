@@ -9,10 +9,10 @@ function Footer() {
               <div className="row pdn-top-30">
                 <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                   <ul className="location_icon">
-                    <li> <a href="#"><img src="assets/icon/facebook.png" /></a></li>
-                    <li> <a href="#"><img src="assets/icon/Twitter.png" /></a></li>
-                    <li> <a href="#"><img src="assets/icon/linkedin.png" /></a></li>
-                    <li> <a href="#"><img src="assets/icon/instagram.png" /></a></li>
+                    <li> <a href=""><img src="assets/icon/facebook.png" /></a></li>
+                    <li> <a href=""><img src="assets/icon/Twitter.png" /></a></li>
+                    <li> <a href=""><img src="assets/icon/linkedin.png" /></a></li>
+                    <li> <a href=""><img src="assets/icon/instagram.png" /></a></li>
                   </ul>
                 </div>
                 <div className="col-xl-3 col-lg-3 col-md-6 col-sm-12">
@@ -27,11 +27,11 @@ function Footer() {
                   <div className="Follow">
                     <h3>ADDITIONAL LINKS</h3>
                     <ul className="link">
-                      <li> <a href="#">About us</a></li>
-                      <li> <a href="#">Terms and conditions</a></li>
-                      <li> <a href="#"> Privacy policy</a></li>
-                      <li> <a href="#">News</a></li>
-                      <li> <a href="#"> Contact us</a></li>
+                      <li> <a href="">About us</a></li>
+                      <li> <a href="">Terms and conditions</a></li>
+                      <li> <a href=""> Privacy policy</a></li>
+                      <li> <a href="">News</a></li>
+                      <li> <a href=""> Contact us</a></li>
                     </ul>
                   </div>
                 </div>
