@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Button1 from './Button1';
 function FormField() {
 
   const handleSubmit = (event) => {
@@ -68,7 +68,7 @@ function FormField() {
           </div>
         </div>
         <div className="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
-          <button type="submit"><a>Search</a></button>
+          <button type="submit"><Button1 text="Submit"/></button>
         </div>
     
       </div>

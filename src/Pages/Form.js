@@ -1,5 +1,6 @@
 import React from 'react'
 import FormField from '../Components/FormField'
+import Button2 from '../Components/Button2'
 
 function Form() {
   return (
@@ -13,7 +14,7 @@ function Form() {
             <div className="container">
               <div className="text-bg">
                 <h1>Travel<br /><strong className="white">with us</strong></h1>
-                <div className="button_section"> <a className="main_bt" href="#">Read More</a></div>
+                <Button2 text="Read More" />
                 <div className="container">
                   
 
