@@ -1,4 +1,5 @@
 import React from 'react';
+import Button1 from './Button1';
 
 function TravelingBox({ iconSrc, title, description }) {
   return (
@@ -8,7 +9,7 @@ function TravelingBox({ iconSrc, title, description }) {
         <h3>{title}</h3>
         <p>{description}</p>
         <div className="read-more">
-          <a href="#">Read More</a>
+          <Button1 text="Read More"/>
         </div>
       </div>
     </div>

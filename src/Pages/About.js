@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Button1 from '../Components/Button1'
 function About() {
   return (
     <>
@@ -27,7 +27,7 @@ function About() {
                 </div>
               </div>
             </div>
-            <a href="#">Read More</a>
+            <Button1 text="Read More"/>
           </div>
         </div>
 
