@@ -68,7 +68,7 @@ function FormField() {
           </div>
         </div>
         <div className="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
-          <button type="submit"><Button1 text="Submit"/></button>
+          <button type="submit"><a>Submit</a></button>
         </div>
     
       </div>
