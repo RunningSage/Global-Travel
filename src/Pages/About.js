@@ -1,7 +1,7 @@
 import React from 'react'
 import Button1 from '../Components/Button1'
 function About() {
-  return (
+  return ( 
     <>
               <div id="about" className="about">
           <div className="container">
