@@ -1836,6 +1836,7 @@ input[type="radio"] .styled:checked+label::after {
 .titlepage {
      text-align: center;
      padding-bottom: 54px;
+     padding-top: 40px;
 }
 .titlepage h2 {
      padding: 0px 0px 20px 0px;
@@ -2052,7 +2053,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 .blog {
      background-color: #fff;
-     padding-top: 90px;
+     padding-top: 0px;
 }
 .titlepage {
      text-align: center;
