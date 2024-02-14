@@ -16,8 +16,7 @@ function Form() {
                 <h1>Travel<br /><strong className="white">with us</strong></h1>
                 <Button2 text="Read More" />
                 <div className="container">
-                  
-
+                
                   <FormField/>
 
                 </div>
