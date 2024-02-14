@@ -334,9 +334,7 @@
     .blog .blog-box .travel p {
         padding-left: 8px;
     }
-    .footer {
-        margin-top: 70px;
-    }
+    
     ul.location_icon {
         margin-bottom: 25px;
     }
@@ -434,7 +432,5 @@
     .blog .blog-box .travel span {
         font-size: 13px;
     }
-    .footer {
-        margin-top: 70px;
-    }
+    
 }

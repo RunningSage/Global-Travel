@@ -51,19 +51,19 @@ function FormField() {
             </div>
             <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
               <label>Min Price</label>
-              <input className="form-control" placeholder="Min Price" type="text" name="minPrice" />
+              <input className="form-control" placeholder="0" type="number" name="minPrice" />
             </div>
             <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
               <label>Duration</label>
-              <input className="form-control" placeholder="Any" type="text" name="duration" />
+              <input className="form-control" placeholder="0" type="number" name="duration"/>
             </div>
             <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
               <label>Date</label>
-              <input className="form-control" placeholder="Any" type="date" name="date" />
+              <input className="form-control" placeholder="" type="date" name="date" />
             </div>
             <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
               <label>Max Price</label>
-              <input className="form-control" placeholder="Max Price" type="text" name="maxPrice" />
+              <input className="form-control" placeholder="0" type="number" name="maxPrice" />
             </div>
           </div>
         </div>
