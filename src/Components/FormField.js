@@ -3,9 +3,7 @@ import Button1 from './Button1';
 function FormField() {
 
   const handleSubmit = (event) => {
-    event.preventDefault(); // Prevent the form from submitting
-    
-    // Validation logic
+    event.preventDefault(); 
     const formData = new FormData(event.target);
     const fieldsToValidate = ['keywords', 'category-1', 'category-2', 'minPrice', 'maxPrice', 'duration', 'date'];
   
@@ -17,7 +15,6 @@ function FormField() {
       }
     }
   
-    // If all fields are filled, show the output in an alert
     const output = Array.from(formData.entries())
       .map(([name, value]) => `${name}: ${value}`)
       .join('\n');
